@@ -1,3 +1,4 @@
 # Misiones
 
-investigar a irieneu
+* investigar a irieneu
+* capturar a irineu
